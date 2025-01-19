@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello Odin!xxyv
-=======
-Hello Odin!xxyy
->>>>>>> test_branch
